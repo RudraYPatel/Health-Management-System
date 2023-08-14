@@ -4,5 +4,3 @@ id_Name_Disease_Gender_Age
 14_Alok_Maleriya_Male_45
 15_Ravi_Diabetes_Male_25
 16_Mary_Cancer_Female_55
-
-efe_3r_rrt_r_rrrt
